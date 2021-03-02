@@ -1,0 +1,69 @@
+mark { 
+    background-color: yellow;
+    color: black;
+}
+.logout {
+    position:absolute;
+    right:25px;
+    top:25px;
+}
+.default-image {
+    margin-top: -8px;
+    margin-left: 10px;
+    max-width: 50px;
+    max-height: 50px;
+}
+.inputs {
+    width: 100%;
+}
+.cards-main {
+    max-height: 700px;
+}
+.book-card {
+    border: black 3px solid;
+}
+.book-text {
+    border: gray 1px solid;
+    margin: 10px;
+    padding: 10px;
+    font-size: 15px;
+}
+.l-m-l {
+    margin-left: 35px;
+}
+.m-m-l {
+    margin-left: 15px;
+}
+.s-m-l {
+    margin-left: 5px;
+}
+.s-m-r {
+    margin-right: 5px;
+}
+.s-m-b {
+    margin-bottom: 5px;
+}
+.l-m-t {
+    margin-top: 35px;
+}
+.m-m-t {
+    margin-top: 15px;
+}
+.s-m-t {
+    margin-top: 5px;
+}
+.hide {
+    display: none;
+}
+.btn-width {
+    width: 160px;
+}
+#category {
+    width: 160px;
+}
+#inputcategory {
+    display: none;
+}
+#textarealarge {
+    height: 150px;
+}
